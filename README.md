@@ -2,9 +2,9 @@
 Aplicación Reto Reciclaje
 
 # Participantes
-Ferney Palma
-Giovanni Giraldo
-Cesar A Palacios A
+Ferney Palma <br/>
+Giovanni Giraldo <br/>
+Cesar A Palacios A <br/>
 
 # Descripción
 Ofrecer una herramienta al ciudadano para que realice su clasificación de residuos por medio de un arbol de desición, dando información relacionada con el impacto y formas de re- utilizar el residuo de una manera responsable.
