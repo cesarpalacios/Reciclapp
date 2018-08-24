@@ -29,10 +29,10 @@ La expectativa de los habitantes se basa en desarrollar aplicaciones digitales q
 
 <center>
 
-<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%201.png" width="200px">
+  <img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%201.png" width="200px">
 
-<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%202.png" width="200px">
+  <img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%202.png" width="200px">
 
-<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%203.png" width="200px">
+  <img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%203.png" width="200px">
 
 </center>
