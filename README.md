@@ -26,6 +26,13 @@ La oportunidad que existe en la comunidad es generar pequeñas acciones de conci
 La expectativa de los habitantes se basa en desarrollar aplicaciones digitales que ayuden a dar información a las personas sobre cómo reciclar mejor. Además que se pueda generar un sistema de incentivos para las personas que puedan demostrar que si están haciendo de manera adecuada esa labor. 
 
 #Sketch
-![Primer Visual](https://github.com/cesarpalacios/Reciclapp/blob/master/img/Page%201.png)
-![Segundo Visual](https://github.com/cesarpalacios/Reciclapp/blob/master/img/Page%202.png)
-![Tercer Visual](https://github.com/cesarpalacios/Reciclapp/blob/master/img/Page%202.png)
+
+<center>
+
+<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%201.png" width="50%">
+
+<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%202.png" width="50%">
+
+<img src="https://raw.githubusercontent.com/cesarpalacios/Reciclapp/master/img/Page%203.png" width="50%">
+
+</center>
