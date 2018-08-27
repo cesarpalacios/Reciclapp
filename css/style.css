@@ -1,6 +1,12 @@
 
+.textotitulos{
+		text-align: center;
+	}
+
+
+
+
+
 @media {max-width: 750px }{
-	.tablero1{
-		width: 50px;
-	}	
+
 }
